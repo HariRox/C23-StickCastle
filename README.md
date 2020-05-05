@@ -1,1 +1,0 @@
-The stick castle is multicoloured and was made up entirely with only the use of recctangles and triangles.
